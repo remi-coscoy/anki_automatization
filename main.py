@@ -1,9 +1,6 @@
 from autopy import mouse, key
 from mouse_positions import MousePositions, Coordinates
 import time
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.service import Service
 
 wait_time = 0.3
 long_wait_time = 4

@@ -6,5 +6,4 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "autopy>=4.0.1",
-    "selenium>=4.32.0",
 ]
